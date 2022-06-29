@@ -13,7 +13,7 @@
 #### Data Collection
 The dataset is obtained from Kaggle. <br /> 
 <br />
-<img src="https://github.com/hiuc1999/Amazon_NLPSentimentAnalysis/blob/main/image/Kaggle.png" width="680" height="180"> <br /> 
+<img src="https://github.com/hiuc1999/Amazon_NLPSentimentAnalysis/blob/main/image/Kaggle.png" width="620" height="180"> <br /> 
 
 #### Data Preprocessing
 1. Create a binary column and define score > 3 is positive else negative. <br /> 
