@@ -17,8 +17,8 @@ The dataset is obtained from Kaggle. <br />
 
 #### Data Preprocessing
 1. Create a binary column and define score > 3 is positive else negative. <br /> 
-2. Clean contractions and Define customized stopword list <br /> 
-3. Import SnowballStemmer. <br /> 
+2. Clean contractions, stopwords. <br /> 
+3. Use NLTK library to tokenize and stem the words. <br /> 
 
 #### Models Used
 1. Naive Bayes (after stratified K-fold cross validation) <br /> 
